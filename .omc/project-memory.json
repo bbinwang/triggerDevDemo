@@ -1,0 +1,107 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1781938125091,
+  "projectRoot": "/home/wangbin/projects/triggerDevDemo",
+  "techStack": {
+    "languages": [
+      {
+        "name": "JavaScript/TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "package.json"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "tsconfig.json"
+        ]
+      }
+    ],
+    "frameworks": [],
+    "packageManager": "npm",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": "npm run dev",
+    "scripts": {
+      "dev": "npx trigger.dev@latest dev",
+      "deploy": "npx trigger.dev@latest deploy"
+    }
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "trigger": {
+      "path": "trigger",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1781938125082,
+      "keyFiles": [
+        "example.ts"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "",
+      "accessCount": 2,
+      "lastAccessed": 1781938245057,
+      "type": "directory"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 1,
+      "lastAccessed": 1778414325037,
+      "type": "file"
+    },
+    {
+      "path": "trigger.config.ts",
+      "accessCount": 1,
+      "lastAccessed": 1778414325088,
+      "type": "file"
+    },
+    {
+      "path": "package.json",
+      "accessCount": 1,
+      "lastAccessed": 1778414325139,
+      "type": "file"
+    },
+    {
+      "path": "trigger/example.ts",
+      "accessCount": 1,
+      "lastAccessed": 1778414325185,
+      "type": "file"
+    },
+    {
+      "path": "tsconfig.json",
+      "accessCount": 1,
+      "lastAccessed": 1778414325253,
+      "type": "file"
+    },
+    {
+      "path": ".env.example",
+      "accessCount": 1,
+      "lastAccessed": 1778414325304,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
