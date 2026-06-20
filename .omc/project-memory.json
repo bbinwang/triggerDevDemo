@@ -61,16 +61,16 @@
   },
   "hotPaths": [
     {
+      "path": "README.md",
+      "accessCount": 3,
+      "lastAccessed": 1781939469019,
+      "type": "file"
+    },
+    {
       "path": "",
       "accessCount": 2,
       "lastAccessed": 1781938245057,
       "type": "directory"
-    },
-    {
-      "path": "README.md",
-      "accessCount": 1,
-      "lastAccessed": 1778414325037,
-      "type": "file"
     },
     {
       "path": "trigger.config.ts",
